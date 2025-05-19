@@ -21,6 +21,6 @@ This repo will be updated regularly as I complete lessons and projects. Here’s
 - 🌄 **Textures & Environment Maps** – Enhancing realism with mapped surfaces  
 - 🔦 **Shadows** – Configuring shadows for depth and realism  
 - 🧪 **Mini Projects** – Small projects and creative experiments to practice concepts  
-- 🧠 **Advanced Topics (Coming Soon)** – Shaders, particle systems, post-processing
+
 
 ---
